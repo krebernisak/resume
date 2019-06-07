@@ -8,96 +8,57 @@ kristijan@runningbeta.io | +385 91 4554-344
 Interests & Proficiency
 -----------------------
 
-I have been writing code, running servers and experimenting with new software since 2004. Most recently the majority of code I have written has been in Java and JavaScript, but I have experience in many other languages and technologies. I am a full-stack developer interested in designing and building scalable distributed systems as well as usable mobile and web clients.
-
 * 
-    - Proficient in Java, JavaScript and Solidity
-    - Some experience in Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
-    - Well experienced in building applications for the Android platform
-    - Web technologies (HTML5, CSS3, SVG, DOM, AJAX, REST, SOAP, WSDL, JSON, XML)
+    - Proficient in Java, JavaScript and Solidity, some experience in Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
+    - Well experienced in building web, native Android and hybrid mobile applications
     - Relational databases and object-relational mapping (SQL, Hibernate, JDO, JPA)
     - Non-Relational databases (Blockchain, Firebase, Redis, ElasticSearch)
     - General knowledge of cryptography and network security
     - Tools: Git, Mercurial, Gradle, Maven, Ant, UNIX/Linux
     - Object-oriented design, Domain Driven Design, Test Driven Design, Functional programming
-    - Passion for distributed systems, product design, and agile methodologies
 
 Work Experience
 ---------------
 
-*   **RunningBeta** a blockchain research company and private investment vehicle
-
-    Co-Founder and Technical Lead, Aug 2017 - Present
+*   **RunningBeta** Co-Founder and Technical Lead, Aug 2017 - Present
 
     - Distributed protocol design and system architecture
-    - Token economics and mechanism design research and prototyping
-    - Ethereum smart contract development
+    - Ethereum development, token economics, and mechanism design research and prototyping
     - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Reactive Streams, Python
 
-*   **Tolar HashNET** crypto-currency featuring scalable, fast, secure, and fair transactions
+*   **Tolar HashNET** Smart Contract Engineer and Technical Advisor, Mar 2018 - Mar 2019
 
-    Smart Contract Engineer and Technical Advisor, Mar 2018 - Mar 2019
-
-    - Advising on and development of smart contract Ethereum infrastructure, used by Tolar for fundraising and HashNET chain migration.
+    - Advising on and development of Tolar fundraising smart contract Ethereum infrastructure
     - Technologies: Ethereum, Solidity, JavaScript, TypeScript, React, Redux, Reactive Streams
 
-*   **Bellabeat** an Health-Tracking intelligence platform for women
-
-    Mobile Team Lead and System Architect, Sep 2015 – Mar 2017
+*   **Bellabeat** Mobile Team Lead and System Architect, Sep 2015 – Mar 2017
 
     - Lead a team of 10 engineers (iOS, Android, QA)
     - High-level system architecture and technology strategy design and implementation
-    - Native Android mobile app, Bellabeat Leaf, architecture, and implementation
     - Core Java shared (Android, Backend, iOS - J2Objc) library architecture, and implementation
     - Pushed adoption of functional-reactive programming on multiple projects and platforms
-    - Technologies: Java, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), Firebase, J2Objc, ElasticSearch, Kotlin
+    - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), Firebase, J2Objc, ElasticSearch
 
-*   **ShoutEm** mobile app builder
+*   **ShoutEm** Android Developer, May 2013 - Sep 2015
 
-    Android Developer, May 2013 - Sep 2015
-
-    - Design and develop a hybrid Android/HTML5 mobile app
-    - Redesigned an Android native wrapper to run the HTML5 application
-    - Decreased Android code base by 25% after four weeks of work
-    - Developing features and architecture for an HTML5 application that was deployed to thousands of users on iOS, Android and across mobile and desktop browsers
-    - Working closely with server team designing backend REST API
-    - Loyalty module lead developer and architecture design
-    - Using a local proxy server enabled podcast streaming for US Sprint users
+    - Design and develop a hybrid Android/iOS/HTML5 mobile app with thousands of users
     - Assisted in architecture planning and building of an in-house data collecting system
-    - Technologies: Java, Android SDK & NDK, Apache Cordova, HTML5, CSS, JavaScript, Node.js, ElasticSearch, Ruby, Python
+    - Technologies: Java, Android SDK/NDK, Apache Cordova, HTML5/CSS, JavaScript, Node.js, ElasticSearch, Ruby, Python
 
-*   **Five Minutes Ltd.** now FIVE - Mobile App Design and Development Agency
+*   **FIVE** Android Developer, November 2012 – May 2013
 
-    Android Developer, November 2012 – May 2013
+    - Developing Android apps for enterprises like Allianz, The Hearst Corporation, Konzum and startups like Fogg Mobile and Visiobike.
+    - Technologies: Android SDK/NDK, Maven, Ant, RoboGuice, Otto, kSOAP 2, Bluetooth, SQL
 
-    - Developing Android apps for various enterprise clients like Allianz, The Hearst Corporation, Konzum and startups like Fogg Mobile and Visiobike.
-    - Bluetooth protocol communication with hardware controller used by an electric bicycle
-    - Ad hoc wifi webcam streaming in MJPEG video format
-    - Technologies: Android SDK & NDK, Maven, Ant, RoboGuice, Otto, kSOAP 2, Bluetooth, SQL
+*   **Real Networks** Java EE Developer, February 2011 - November 2012
 
-*   **Real Networks**
-
-    Java EE Developer, CUEComm, April 2012 - November 2012
-
-    - SOAP API backend used by MEP Storefront
-    - Rewritten from the ground up for better scalability and maintenance
-    - Extensive testing with SoapUI and JMeter
-    - Technologies: J2EE, Spring, SOAP, Hibernate, JBoss, Ant, Solr
-
-    Java EE Developer, MEP Storefront, February 2011 - April 2012
-
-    - Media Entertainment Platform for providing music, ringtones and ringback tones to mobile carrier users
-    - Designed and implemented features for some major mobile carriers in the US (MetroPCS, Verizon, Sprint) and EU
-    - Implemented SSO for clients applications using Oracle OpenSSO Fedlet
-    - Technologies: J2EE, JSP, SOAP, WSDL, JBoss portal, Tomcat, Maven, SAML 2.0
+    - Media Entertainment Platform providing music and ringtones to mobile carrier users
+    - Implemented features for major mobile carriers in the US (MetroPCS, Verizon, Sprint) and EU
+    - Technologies: J2EE, JSP, SOAP, WSDL, JBoss Portal, Tomcat, Spring, Ant, Solr, Maven, SAML 2.0
 
 Education
 ---------
 
 *   **MASTER OF SCIENCE IN COMPUTER SCIENCE** June 2011
-
-    Faculty of electrical engineering and computing, University of Zagreb
-
-*   **BACHELOR OF SCIENCE IN COMPUTING** July 2009
 
     Faculty of electrical engineering and computing, University of Zagreb

@@ -30,7 +30,7 @@ Work Experience
     Co-Founder and Technical Lead, Aug 2017 - Present
 
     - Distributed protocol design and system architecture
-    - Token economics and mechanism design research and prototyping
+    - Token economics, and mechanism design research and prototyping
     - Ethereum smart contract development
     - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Reactive Streams, Python
 
@@ -50,7 +50,7 @@ Work Experience
     - Native Android mobile app, Bellabeat Leaf, architecture, and implementation
     - Core Java shared (Android, Backend, iOS - J2Objc) library architecture, and implementation
     - Pushed adoption of functional-reactive programming on multiple projects and platforms
-    - Technologies: Java, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), Firebase, J2Objc, ElasticSearch, Kotlin
+    - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), Firebase, J2Objc, ElasticSearch
 
 *   **ShoutEm** mobile app builder
 
@@ -66,12 +66,12 @@ Work Experience
     - Assisted in architecture planning and building of an in-house data collecting system
     - Technologies: Java, Android SDK & NDK, Apache Cordova, HTML5, CSS, JavaScript, Node.js, ElasticSearch, Ruby, Python
 
-*   **Five Minutes Ltd.** now FIVE - Mobile App Design and Development Agency
+*   **FIVE** Mobile Design and Development Agency
 
     Android Developer, November 2012 – May 2013
 
     - Developing Android apps for various enterprise clients like Allianz, The Hearst Corporation, Konzum and startups like Fogg Mobile and Visiobike.
-    - Bluetooth protocol communication with hardware controller used by an electric bicycle
+    - Bluetooth protocol communication with a hardware controller used by an electric bicycle
     - Ad hoc wifi webcam streaming in MJPEG video format
     - Technologies: Android SDK & NDK, Maven, Ant, RoboGuice, Otto, kSOAP 2, Bluetooth, SQL
 
@@ -89,7 +89,7 @@ Work Experience
     - Media Entertainment Platform for providing music, ringtones and ringback tones to mobile carrier users
     - Designed and implemented features for some major mobile carriers in the US (MetroPCS, Verizon, Sprint) and EU
     - Implemented SSO for clients applications using Oracle OpenSSO Fedlet
-    - Technologies: J2EE, JSP, SOAP, WSDL, JBoss portal, Tomcat, Maven, SAML 2.0
+    - Technologies: J2EE, JSP, SOAP, WSDL, JBoss Portal, Tomcat, Maven, SAML 2.0
 
 Education
 ---------
@@ -116,7 +116,7 @@ Side Projects
 -------------
 *   **KiM** (www.kimtoys.com, www.kimtrgovina.hr) - 2009
     - Online catalog and content management system (CMS).
-    - Running on Google App Engine platform.
+    - Running on the Google App Engine platform.
     - Written in Java on Struts 2 Framework using Struts Tiles, Java Data Objects (JDO), Apache Lucene and other.
     - Redeployed as a new website in 2015 using Magento v1.8.1 e-commerce platform, running in Docker containers on Digital Ocean
     - Updated to Magento v2.1.9 in 2017, running in Docker containers on Google Compute Engine
