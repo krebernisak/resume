@@ -25,7 +25,7 @@ I have been writing code, running servers and experimenting with new software si
 Work Experience
 ---------------
 
-*   **Running Beta** a blockchain research company and private investment vehicle
+*   **RunningBeta** a blockchain research company and private investment vehicle
 
     Co-Founder and Technical Lead, Aug 2017 - Present
 
