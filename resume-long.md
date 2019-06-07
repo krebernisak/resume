@@ -11,12 +11,12 @@ Interests & Proficiency
 I have been writing code, running servers and experimenting with new software since 2004. Most recently the majority of code I have written has been in Java and JavaScript, but I have experience in many other languages and technologies. I am a full-stack developer interested in designing and building scalable distributed systems as well as usable mobile and web clients.
 
 * 
-    - Proficient in Java and JavaScript
-    - Some experience in Solidity, Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
+    - Proficient in Java, JavaScript and Solidity
+    - Some experience in Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
     - Well experienced in building applications for the Android platform
     - Web technologies (HTML5, CSS3, SVG, DOM, AJAX, REST, SOAP, WSDL, JSON, XML)
     - Relational databases and object-relational mapping (SQL, Hibernate, JDO, JPA)
-    - Non-Relational databases (Firebase, Redis, ElasticSearch, Blockchain)
+    - Non-Relational databases (Blockchain, Firebase, Redis, ElasticSearch)
     - General knowledge of cryptography and network security
     - Tools: Git, Mercurial, Gradle, Maven, Ant, UNIX/Linux
     - Object-oriented design, Domain Driven Design, Test Driven Design, Functional programming
@@ -27,16 +27,23 @@ Work Experience
 
 *   **Running Beta** a blockchain research company and private investment vehicle
 
-    Founder and Technical Lead, Aug 2017
+    Co-Founder and Technical Lead, Aug 2017 - Present
 
     - Distributed protocol design and system architecture
     - Token economics and mechanism design research and prototyping
     - Ethereum smart contract development
-    - Technologies: Ethereum, Solidity, Truffle, web3.js, IPFS
+    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Reactive Streams, Python
+
+*   **Tolar HashNET** crypto-currency featuring scalable, fast, secure, and fair transactions
+
+    Smart Contract Engineer and Technical Advisor, Mar 2018 - Mar 2019
+
+    - Advising on and development of smart contract Ethereum infrastructure, used by Tolar for fundraising and HashNET chain migration.
+    - Technologies: Ethereum, Solidity, JavaScript, TypeScript, React, Redux, Reactive Streams
 
 *   **Bellabeat** an Health-Tracking intelligence platform for women
 
-    Mobile Team Lead, Sep 2015 – Mar 2017
+    Mobile Team Lead and System Architect, Sep 2015 – Mar 2017
 
     - Lead a team of 10 engineers (iOS, Android, QA)
     - High-level system architecture and technology strategy design and implementation
@@ -88,16 +95,18 @@ Education
 ---------
 
 *   **MASTER OF SCIENCE IN COMPUTER SCIENCE** June 2011
+
     Faculty of electrical engineering and computing, University of Zagreb
 
-    **Graduation Thesis** Eigenphase Based Recognition System for Partially Occluded Faces
+    **Graduation Thesis**: Eigenphase Based Recognition System for Partially Occluded Faces
     - This approach combines a Principal component analysis (PCA) with Linear discriminant analysis (LDA) using Fourier transform phase information to extract the facial features and reduce the dimensionality of the feature space
     - Written in MATLAB and tested on AR Face Database and XM2VTSDB
 
 *   **BACHELOR OF SCIENCE IN COMPUTING** July 2009
+
     Faculty of electrical engineering and computing, University of Zagreb
 
-    **BSc Thesis** Hand-written Alphanumerical Character Recognition
+    **BSc Thesis**: Hand-written Alphanumerical Character Recognition
     - Pattern recognition classification of 30 Croatian letters and numbers from 0 to 9
     - Contour features were extracted using Fourier and Granlund descriptors
     - K-nearest-neighbor (kNN) classification
