@@ -35,14 +35,14 @@ Work Experience
     - Researching distributed protocol design and system architecture, token economics, mechanism design
     - Launched [WEINORTH](https://weinorth.com/), a tokenization platform built on Ethereum (ICO/KYC/Analytics).
     - Working on [Kittyland](https://kittyland.io/), an internal project, where we test and experiment with different concepts. It is a token publishing and distribution protocol for games and dApps built on top of ERC20, ERC721, and ERC998 token standards.
-    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Reactive Streams (RxJS), Python
+    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Gatsby, ReactiveX (RxJS), Python
 
 *   **[Tolar HashNET](https://www.tolar.io/)** crypto-currency featuring scalable, fast, secure, and fair transactions
 
     Smart Contract Engineer and Technical Advisor, Mar 2018 - Mar 2019
 
     - Worked on smart contract Ethereum infrastructure, used by Tolar for fundraising and HashNET chain migration.
-    - Technologies: Ethereum, Solidity, JavaScript, TypeScript, React, Redux, Reactive Streams
+    - Technologies: Ethereum, Solidity, JavaScript, TypeScript, React, Redux, ReactiveX (RxJS)
 
 *   **[Bellabeat](https://www.bellabeat.com/)** an Health-Tracking intelligence platform for women
 
@@ -53,7 +53,7 @@ Work Experience
     - Worked on native Android mobile app, Bellabeat Leaf, architecture, and implementation
     - Implemented core Java shared (Android, Backend, iOS - J2Objc) library architecture
     - Led adoption of functional-reactive programming on multiple projects and platforms
-    - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), MVI Architecture, SQLite, Firebase, J2Objc, ElasticSearch
+    - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, ReactiveX (RxJava, RxKotlin, RxSwift), MVI Architecture, SQLite, Firebase, J2Objc, ElasticSearch
 
 *   **[ShoutEm](https://www.shoutem.com/)** mobile app builder
 
@@ -67,7 +67,7 @@ Work Experience
     - Led ShoutEm loyalty module team on architecture and development
     - Implemented a local proxy server on Android to enable podcast streaming for US Sprint users
     - Assisted in architecture planning and building of an in-house data collecting system
-    - Technologies: Java, Android SDK/NDK, Reactive Streams (RxJava), Apache Cordova, HTML5/CSS/SVG, JavaScript, Node.js, ElasticSearch, Ruby, Python
+    - Technologies: Java, Android SDK/NDK, ReactiveX (RxJava), Apache Cordova, HTML5/CSS/SVG, JavaScript, Node.js, ElasticSearch, Ruby, Python
 
 *   **[FIVE](https://five.agency/)** Mobile Design and Development Agency
 
