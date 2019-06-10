@@ -59,7 +59,7 @@ Work Experience
 
     Android Developer, May 2013 - Sep 2015
 
-    - Desiged and developed a hybrid Android/HTML5 mobile app
+    - Designed and developed a hybrid Android/HTML5 mobile app
     - Redesigned an Android native wrapper to run the HTML5 application
     - Decreased Android code base by 25% after four weeks of work
     - Developed features and architecture for an HTML5 application that was deployed to thousands of users on iOS, Android and across mobile and desktop browsers
@@ -74,7 +74,7 @@ Work Experience
     Android Developer, November 2012 – May 2013
 
     - Developed Android apps for various enterprise clients like Allianz, The Hearst Corporation, Konzum and startups like Fogg Mobile and Visiobike.
-    - Worked on bluetooth protocol communication with a hardware controller used by an electric bicycle
+    - Worked on Bluetooth protocol communication with a hardware controller used by an electric bicycle
     - Worked on ad hoc wifi webcam streaming in MJPEG video format
     - Technologies: Android SDK/NDK, Maven, Ant, RoboGuice, Otto, kSOAP 2, Bluetooth, SQLite
 
@@ -101,6 +101,8 @@ Education
 
     Faculty of electrical engineering and computing, University of Zagreb
 
+    **Programming Coursework**: Advanced Algorithms & Data Structures, Object-Oriented Design, Formal Methods in System Design, Advanced Operating Systems, Machine Learning, Computer Vision, Pattern Recognition, Expert Systems, Neural Networks, Internet Security
+
     **Graduation Thesis**: Eigenphase Based Recognition System for Partially Occluded Faces
     - This approach combines a Principal component analysis (PCA) with Linear discriminant analysis (LDA) using Fourier transform phase information to extract the facial features and reduce the dimensionality of the feature space
     - Written in MATLAB and tested on AR Face Database and XM2VTSDB
@@ -108,6 +110,10 @@ Education
 *   **BACHELOR OF SCIENCE IN COMPUTING** July 2009
 
     Faculty of electrical engineering and computing, University of Zagreb
+
+    **Programming Coursework**: Algorithms & Data Structures, Operating Systems, Communication Networks, Information Theory, Programming Language Translation, Artificial Intelligence, Computer Graphics, System Design, Scripting Languages, Java Programming Language
+
+    **EE Coursework**: Embedded Systems, Computer Architecture, Circuits, Digital Logic Design, Signal Processing
 
     **BSc Thesis**: Hand-written Alphanumerical Character Recognition
     - Pattern recognition classification of 30 Croatian letters and numbers from 0 to 9
