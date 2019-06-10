@@ -5,7 +5,7 @@ Remote | Europe | Anina 76, 10000 Zagreb, Croatia
 kristijan@runningbeta.io | +385 91 4554-344
 <https://github.com/krebernisak>
 
-Interests & Proficiency
+Interests & Skills
 -----------------------
 
 I have been reading and writing code, running servers and experimenting with new software since 2004. Most recently, the majority of code I have written has been in Java, JavaScript, and Solidity, but I have experience in many other programming languages and technologies. I am interested in designing and building scalable distributed systems, smart contracts and protocols on distributed networks like Ethereum, as well as native mobile and web clients.

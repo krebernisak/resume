@@ -5,7 +5,7 @@ Remote | Europe | Anina 76, 10000 Zagreb, Croatia
 kristijan@runningbeta.io | +385 91 4554-344
 <https://github.com/krebernisak>
 
-Interests & Proficiency
+Interests & Skills
 -----------------------
 
 * 
