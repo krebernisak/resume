@@ -1,12 +1,12 @@
 Kristijan Rebernisak
 ====================
 
-Remote | Europe | Anina 76, 10000 Zagreb, Croatia
+Remote | Europe | Zagreb, Croatia
 kristijan@runningbeta.io | +385 91 4554-344
 <https://github.com/krebernisak>
 
 Interests & Skills
------------------------
+------------------
 
 I have been reading and writing code, running servers and experimenting with new software since 2004. Most recently, the majority of code I have written has been in Java, JavaScript, and Solidity, but I have experience in many other programming languages and technologies. I am interested in designing and building scalable distributed systems, smart contracts and protocols on distributed networks like Ethereum, as well as native mobile and web clients.
 
@@ -16,13 +16,13 @@ I have been reading and writing code, running servers and experimenting with new
     - Proficient in Java, JavaScript, and Solidity
     - Some experience in Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
     - Experienced with Object-oriented design, Domain-driven design, Test-driven development, and Functional programming
-    - Experienced with event-driven architecture (DDD, CQRS, Event Sourcing, Blockchain, RxJava, RxJs, Redux)
+    - Experienced with event-driven architecture (DDD, CQRS, Event Sourcing, Blockchain, RxJava, RxJS, Redux)
     - Well experienced in building web, native Android and hybrid mobile applications
     - Web technologies (HTML5, CSS3, SVG, DOM, AJAX, REST, SOAP, WSDL, JSON, XML)
     - Relational databases and object-relational mapping (SQL, Hibernate, JDO, JPA)
     - Non-Relational databases (Blockchain, Firebase, ElasticSearch, Redis)
     - General knowledge of cryptography and network security
-    - Tools: Git, GitFlow, Gradle, Maven, UNIX/Linux, Jupyter Notebooks
+    - Tools: Git/GitFlow, Gradle, Maven, UNIX/Linux, Docker, CI/Jenkins/CircleCI, ELK Stack, Jupyter
 
 Work Experience
 ---------------

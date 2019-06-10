@@ -1,22 +1,22 @@
 Kristijan Rebernisak
 ====================
 
-Remote | Europe | Anina 76, 10000 Zagreb, Croatia
+Remote | Europe | Zagreb, Croatia
 kristijan@runningbeta.io | +385 91 4554-344
 <https://github.com/krebernisak>
 
 Interests & Skills
------------------------
+------------------
 
 * 
     - Full Stack Developer and Tech Lead experienced in system design, API design and data modeling
     - Proficient in Java, JavaScript and Solidity, some experience in Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
-    - Experienced with event-driven architecture (DDD, CQRS, ES, Blockchain, RxJava, RxJs, Redux)
+    - Experienced with event-driven architecture (DDD, CQRS, ES, Blockchain, RxJava, RxJS, Redux)
     - Well experienced in building web, native Android and hybrid mobile applications
     - Relational databases and object-relational mapping (SQL, Hibernate, JDO, JPA)
     - Non-Relational databases (Blockchain, Firebase, Redis, ElasticSearch)
     - General knowledge of cryptography and network security
-    - Tools: Git, GitFlow, Gradle, Maven, UNIX/Linux, Jupyter Notebooks
+    - Tools: Git/GitFlow, Gradle, Maven, UNIX/Linux, Docker, CI/Jenkins/CircleCI, ELK Stack, Jupyter
 
 Work Experience
 ---------------
