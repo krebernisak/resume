@@ -1,7 +1,7 @@
 Kristijan Rebernisak
 ====================
 
-Anina 76, 10000 Zagreb, Croatia
+Remote | Europe | Anina 76, 10000 Zagreb, Croatia
 kristijan@runningbeta.io | +385 91 4554-344
 <https://github.com/krebernisak>
 
@@ -11,7 +11,7 @@ Interests & Proficiency
 I have been reading and writing code, running servers and experimenting with new software since 2004. Most recently, the majority of code I have written has been in Java, JavaScript, and Solidity, but I have experience in many other programming languages and technologies. I am interested in designing and building scalable distributed systems, smart contracts and protocols on distributed networks like Ethereum, as well as native mobile and web clients.
 
 * 
-    - Full stack software engineer experienced in system design, API design and data modeling
+    - Full Stack Developer and Tech Lead experienced in system design, API design and data modeling
     - Interested in distributed and event-driven systems, product design, and agile methodologies
     - Proficient in Java, JavaScript, and Solidity
     - Some experience in Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
@@ -27,24 +27,24 @@ I have been reading and writing code, running servers and experimenting with new
 Work Experience
 ---------------
 
-*   **RunningBeta** a blockchain research company and private investment vehicle
+*   **[RunningBeta](https://runningbeta.io/)** a blockchain research company and private investment vehicle
 
     Co-Founder and Technical Lead, Aug 2017 - Present
 
     - Working with Solidity, EVM and Ethereum token standards on smart contract development
     - Researching distributed protocol design and system architecture, token economics, mechanism design
-    - Launched WEINORTH, a tokenization platform built on Ethereum (ICO/KYC/Analytics).
-    - Working on Kittyland, an internal project, where we test and experiment with different concepts. It is a token publishing and distribution protocol for games and dApps built on top of ERC20, ERC721, and ERC998 token standards.
+    - Launched [WEINORTH](https://weinorth.com/), a tokenization platform built on Ethereum (ICO/KYC/Analytics).
+    - Working on [Kittyland](https://kittyland.io/), an internal project, where we test and experiment with different concepts. It is a token publishing and distribution protocol for games and dApps built on top of ERC20, ERC721, and ERC998 token standards.
     - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Reactive Streams (RxJS), Python
 
-*   **Tolar HashNET** crypto-currency featuring scalable, fast, secure, and fair transactions
+*   **[Tolar HashNET](https://www.tolar.io/)** crypto-currency featuring scalable, fast, secure, and fair transactions
 
     Smart Contract Engineer and Technical Advisor, Mar 2018 - Mar 2019
 
     - Worked on smart contract Ethereum infrastructure, used by Tolar for fundraising and HashNET chain migration.
     - Technologies: Ethereum, Solidity, JavaScript, TypeScript, React, Redux, Reactive Streams
 
-*   **Bellabeat** an Health-Tracking intelligence platform for women
+*   **[Bellabeat](https://www.bellabeat.com/)** an Health-Tracking intelligence platform for women
 
     Mobile Team Lead and System Architect, Sep 2015 – Mar 2017
 
@@ -55,7 +55,7 @@ Work Experience
     - Pushed adoption of functional-reactive programming on multiple projects and platforms
     - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), MVI Architecture, SQLite, Firebase, J2Objc, ElasticSearch
 
-*   **ShoutEm** mobile app builder
+*   **[ShoutEm](https://www.shoutem.com/)** mobile app builder
 
     Android Developer, May 2013 - Sep 2015
 
@@ -69,7 +69,7 @@ Work Experience
     - Assisted in architecture planning and building of an in-house data collecting system
     - Technologies: Java, Android SDK/NDK, Reactive Streams (RxJava), Apache Cordova, HTML5/CSS/SVG, JavaScript, Node.js, ElasticSearch, Ruby, Python
 
-*   **FIVE** Mobile Design and Development Agency
+*   **[FIVE](https://five.agency/)** Mobile Design and Development Agency
 
     Android Developer, November 2012 – May 2013
 
@@ -78,7 +78,7 @@ Work Experience
     - Worked on ad hoc wifi webcam streaming in MJPEG video format
     - Technologies: Android SDK/NDK, Maven, Ant, RoboGuice, Otto, kSOAP 2, Bluetooth, SQLite
 
-*   **Real Networks**
+*   **[Real Networks](https://www.realnetworks.com/)**
 
     Java EE Developer, CUEComm, April 2012 - November 2012
 
