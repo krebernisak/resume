@@ -36,7 +36,7 @@ Work Experience
 
     - Led a team of 10 engineers (Android, iOS, QA) and worked on high-level system architecture
     - Implemented core Java shared (Android, Backend, iOS - J2Objc) library architecture
-    - Pushed adoption of functional-reactive programming on multiple projects and platforms
+    - Led adoption of functional-reactive programming on multiple projects and platforms
     - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), MVI Architecture, SQLite, Firebase, J2Objc, ElasticSearch
 
 *   **[ShoutEm](https://www.shoutem.com/)** Android Developer, May 2013 - Sep 2015

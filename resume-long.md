@@ -52,7 +52,7 @@ Work Experience
     - Worked on high-level system architecture and technology strategy design
     - Worked on native Android mobile app, Bellabeat Leaf, architecture, and implementation
     - Implemented core Java shared (Android, Backend, iOS - J2Objc) library architecture
-    - Pushed adoption of functional-reactive programming on multiple projects and platforms
+    - Led adoption of functional-reactive programming on multiple projects and platforms
     - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), MVI Architecture, SQLite, Firebase, J2Objc, ElasticSearch
 
 *   **[ShoutEm](https://www.shoutem.com/)** mobile app builder
