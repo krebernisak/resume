@@ -8,19 +8,21 @@ kristijan@runningbeta.io | +385 91 4554-344
 Interests & Proficiency
 -----------------------
 
-I have been writing code, running servers and experimenting with new software since 2004. Most recently the majority of code I have written has been in Java and JavaScript, but I have experience in many other languages and technologies. I am a full-stack developer interested in designing and building scalable distributed systems as well as usable mobile and web clients.
+I have been reading and writing code, running servers and experimenting with new software since 2004. Most recently, the majority of code I have written has been in Java, JavaScript, and Solidity, but I have experience in many other programming languages and technologies. I am interested in designing and building scalable distributed systems, smart contracts and protocols on distributed networks like Ethereum, as well as native mobile and web clients.
 
 * 
-    - Proficient in Java, JavaScript and Solidity
+    - Full stack software engineer experienced in system design, API design and data modeling
+    - Interested in distributed and event-driven systems, product design, and agile methodologies
+    - Proficient in Java, JavaScript, and Solidity
     - Some experience in Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
-    - Well experienced in building applications for the Android platform
+    - Experienced with Object-oriented design, Domain-driven design, Test-driven development, and Functional programming
+    - Experienced with event-driven architecture (DDD, CQRS, Event Sourcing, Blockchain, RxJava, RxJs, Redux)
+    - Well experienced in building web, native Android and hybrid mobile applications
     - Web technologies (HTML5, CSS3, SVG, DOM, AJAX, REST, SOAP, WSDL, JSON, XML)
     - Relational databases and object-relational mapping (SQL, Hibernate, JDO, JPA)
-    - Non-Relational databases (Blockchain, Firebase, Redis, ElasticSearch)
+    - Non-Relational databases (Blockchain, Firebase, ElasticSearch, Redis)
     - General knowledge of cryptography and network security
-    - Tools: Git, Mercurial, Gradle, Maven, Ant, UNIX/Linux
-    - Object-oriented design, Domain Driven Design, Test Driven Design, Functional programming
-    - Passion for distributed systems, product design, and agile methodologies
+    - Tools: Git, GitFlow, Gradle, Maven, UNIX/Linux, Jupyter Notebooks
 
 Work Experience
 ---------------
@@ -29,51 +31,52 @@ Work Experience
 
     Co-Founder and Technical Lead, Aug 2017 - Present
 
-    - Distributed protocol design and system architecture
-    - Token economics, and mechanism design research and prototyping
-    - Ethereum smart contract development
-    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Reactive Streams, Python
+    - Working with Solidity, EVM and Ethereum token standards on smart contract development
+    - Researching distributed protocol design and system architecture, token economics, mechanism design
+    - Launched WEINORTH, a tokenization platform built on Ethereum (ICO/KYC/Analytics).
+    - Working on Kittyland, an internal project, where we test and experiment with different concepts. It is a token publishing and distribution protocol for games and dApps built on top of ERC20, ERC721, and ERC998 token standards.
+    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Reactive Streams (RxJS), Python
 
 *   **Tolar HashNET** crypto-currency featuring scalable, fast, secure, and fair transactions
 
     Smart Contract Engineer and Technical Advisor, Mar 2018 - Mar 2019
 
-    - Advising on and development of smart contract Ethereum infrastructure, used by Tolar for fundraising and HashNET chain migration.
+    - Worked on smart contract Ethereum infrastructure, used by Tolar for fundraising and HashNET chain migration.
     - Technologies: Ethereum, Solidity, JavaScript, TypeScript, React, Redux, Reactive Streams
 
 *   **Bellabeat** an Health-Tracking intelligence platform for women
 
     Mobile Team Lead and System Architect, Sep 2015 – Mar 2017
 
-    - Lead a team of 10 engineers (iOS, Android, QA)
-    - High-level system architecture and technology strategy design and implementation
-    - Native Android mobile app, Bellabeat Leaf, architecture, and implementation
-    - Core Java shared (Android, Backend, iOS - J2Objc) library architecture, and implementation
+    - Led a team of 10 engineers (Android, iOS, QA)
+    - Worked on high-level system architecture and technology strategy design
+    - Worked on native Android mobile app, Bellabeat Leaf, architecture, and implementation
+    - Implemented core Java shared (Android, Backend, iOS - J2Objc) library architecture
     - Pushed adoption of functional-reactive programming on multiple projects and platforms
-    - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), Firebase, J2Objc, ElasticSearch
+    - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), MVI Architecture, SQLite, Firebase, J2Objc, ElasticSearch
 
 *   **ShoutEm** mobile app builder
 
     Android Developer, May 2013 - Sep 2015
 
-    - Design and develop a hybrid Android/HTML5 mobile app
+    - Desiged and developed a hybrid Android/HTML5 mobile app
     - Redesigned an Android native wrapper to run the HTML5 application
     - Decreased Android code base by 25% after four weeks of work
-    - Developing features and architecture for an HTML5 application that was deployed to thousands of users on iOS, Android and across mobile and desktop browsers
-    - Working closely with server team designing backend REST API
-    - Loyalty module lead developer and architecture design
-    - Using a local proxy server enabled podcast streaming for US Sprint users
+    - Developed features and architecture for an HTML5 application that was deployed to thousands of users on iOS, Android and across mobile and desktop browsers
+    - Worked closely with server team designing backend REST API
+    - Led ShoutEm loyalty module team on architecture and development
+    - Implemented a local proxy server on Android to enable podcast streaming for US Sprint users
     - Assisted in architecture planning and building of an in-house data collecting system
-    - Technologies: Java, Android SDK & NDK, Apache Cordova, HTML5, CSS, JavaScript, Node.js, ElasticSearch, Ruby, Python
+    - Technologies: Java, Android SDK/NDK, Reactive Streams (RxJava), Apache Cordova, HTML5/CSS/SVG, JavaScript, Node.js, ElasticSearch, Ruby, Python
 
 *   **FIVE** Mobile Design and Development Agency
 
     Android Developer, November 2012 – May 2013
 
-    - Developing Android apps for various enterprise clients like Allianz, The Hearst Corporation, Konzum and startups like Fogg Mobile and Visiobike.
-    - Bluetooth protocol communication with a hardware controller used by an electric bicycle
-    - Ad hoc wifi webcam streaming in MJPEG video format
-    - Technologies: Android SDK & NDK, Maven, Ant, RoboGuice, Otto, kSOAP 2, Bluetooth, SQL
+    - Developed Android apps for various enterprise clients like Allianz, The Hearst Corporation, Konzum and startups like Fogg Mobile and Visiobike.
+    - Worked on bluetooth protocol communication with a hardware controller used by an electric bicycle
+    - Worked on ad hoc wifi webcam streaming in MJPEG video format
+    - Technologies: Android SDK/NDK, Maven, Ant, RoboGuice, Otto, kSOAP 2, Bluetooth, SQLite
 
 *   **Real Networks**
 
@@ -81,7 +84,7 @@ Work Experience
 
     - SOAP API backend used by MEP Storefront
     - Rewritten from the ground up for better scalability and maintenance
-    - Extensive testing with SoapUI and JMeter
+    - Worked on extensive testing with SoapUI and JMeter
     - Technologies: J2EE, Spring, SOAP, Hibernate, JBoss, Ant, Solr
 
     Java EE Developer, MEP Storefront, February 2011 - April 2012

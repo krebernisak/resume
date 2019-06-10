@@ -9,46 +9,46 @@ Interests & Proficiency
 -----------------------
 
 * 
+    - Full stack software engineer experienced in system design, API design and data modeling
     - Proficient in Java, JavaScript and Solidity, some experience in Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
+    - Experienced with event-driven architecture (DDD, CQRS, ES, Blockchain, RxJava, RxJs, Redux)
     - Well experienced in building web, native Android and hybrid mobile applications
     - Relational databases and object-relational mapping (SQL, Hibernate, JDO, JPA)
     - Non-Relational databases (Blockchain, Firebase, Redis, ElasticSearch)
     - General knowledge of cryptography and network security
-    - Tools: Git, Mercurial, Gradle, Maven, Ant, UNIX/Linux
-    - Object-oriented design, Domain Driven Design, Test Driven Design, Functional programming
+    - Tools: Git, GitFlow, Gradle, Maven, UNIX/Linux, Jupyter Notebooks
 
 Work Experience
 ---------------
 
 *   **RunningBeta** Co-Founder and Technical Lead, Aug 2017 - Present
 
-    - Distributed protocol design and system architecture
-    - Ethereum development, token economics, and mechanism design research and prototyping
-    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Reactive Streams, Python
+    - Working with Solidity, EVM and Ethereum token standards on smart contract development
+    - Launched WEINORTH, a tokenization platform built on Ethereum (ICO/KYC/Analytics).
+    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Reactive Streams (RxJS), Python
 
 *   **Tolar HashNET** Smart Contract Engineer and Technical Advisor, Mar 2018 - Mar 2019
 
-    - Advising on and development of Tolar fundraising smart contract Ethereum infrastructure
+    - Worked on Tolar fundraising smart contract Ethereum infrastructure
     - Technologies: Ethereum, Solidity, JavaScript, TypeScript, React, Redux, Reactive Streams
 
 *   **Bellabeat** Mobile Team Lead and System Architect, Sep 2015 – Mar 2017
 
-    - Lead a team of 10 engineers (iOS, Android, QA)
-    - High-level system architecture and technology strategy design and implementation
-    - Core Java shared (Android, Backend, iOS - J2Objc) library architecture, and implementation
+    - Led a team of 10 engineers (Android, iOS, QA) and worked on high-level system architecture
+    - Implemented core Java shared (Android, Backend, iOS - J2Objc) library architecture
     - Pushed adoption of functional-reactive programming on multiple projects and platforms
-    - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), Firebase, J2Objc, ElasticSearch
+    - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, Reactive Streams (RxJava, RxSwift), MVI Architecture, SQLite, Firebase, J2Objc, ElasticSearch
 
 *   **ShoutEm** Android Developer, May 2013 - Sep 2015
 
-    - Design and develop a hybrid Android/iOS/HTML5 mobile app with thousands of users
+    - Designed and developed a hybrid Android/iOS/HTML5 mobile app with thousands of users
     - Assisted in architecture planning and building of an in-house data collecting system
-    - Technologies: Java, Android SDK/NDK, Apache Cordova, HTML5/CSS, JavaScript, Node.js, ElasticSearch, Ruby, Python
+    - Technologies: Java, Android SDK/NDK, Reactive Streams (RxJava), Apache Cordova, HTML5/CSS/SVG, JavaScript, Node.js, ElasticSearch, Ruby, Python
 
 *   **FIVE** Android Developer, November 2012 – May 2013
 
-    - Developing Android apps for enterprises like Allianz, The Hearst Corporation, Konzum and startups like Fogg Mobile and Visiobike.
-    - Technologies: Android SDK/NDK, Maven, Ant, RoboGuice, Otto, kSOAP 2, Bluetooth, SQL
+    - Developed Android apps for enterprises like Allianz, The Hearst Corporation, Konzum and startups like Fogg Mobile and Visiobike.
+    - Technologies: Android SDK/NDK, Maven, Ant, RoboGuice, Otto, kSOAP 2, Bluetooth, SQLite
 
 *   **Real Networks** Java EE Developer, February 2011 - November 2012
 
