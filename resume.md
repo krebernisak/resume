@@ -9,8 +9,8 @@ Interests & Skills
 ------------------
 
 * 
-    - Full Stack Developer and Tech Lead experienced in system design, API design and data modeling
-    - Proficient in Java, JavaScript and Solidity, some experience in Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
+    - Full Stack Engineer experienced in algorithm & system design, API design and data modeling
+    - Proficient in Java/Kotlin, JavaScript/TypeScript and Solidity, some experience in Python, Rust, Golang, Swift and familiar with C, C++, C#, MATLAB, Ruby and many others
     - Experienced with event-driven architecture (DDD, CQRS, ES, Blockchain, RxJava, RxJS, Redux)
     - Well experienced in building web, native Android and hybrid mobile applications
     - Relational databases and object-relational mapping (SQL, Hibernate, JDO, JPA)
@@ -25,7 +25,7 @@ Work Experience
 
     - Working with Solidity, EVM and Ethereum token standards on smart contract development
     - Launched [WEINORTH](https://weinorth.com/), a tokenization platform built on Ethereum (ICO/KYC/Analytics).
-    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Gatsby, ReactiveX (RxJS), Python
+    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Gatsby, ReactiveX (RxJS), Rust, Golang, Python
 
 *   **[Tolar HashNET](https://www.tolar.io/)** Smart Contract Engineer and Technical Advisor, Mar 2018 - Mar 2019
 

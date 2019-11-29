@@ -8,13 +8,13 @@ kristijan@runningbeta.io | +385 91 4554-344
 Interests & Skills
 ------------------
 
-I have been reading and writing code, running servers and experimenting with new software since 2004. Most recently, the majority of code I have written has been in Java, JavaScript, and Solidity, but I have experience in many other programming languages and technologies. I am interested in designing and building scalable distributed systems, smart contracts and protocols on distributed networks like Ethereum, as well as native mobile and web clients.
+I have been reading and writing code, running servers and experimenting with new software since 2004. Most recently, the majority of code I have written has been in Java, JavaScript/TypeScript, and Solidity, but I have experience in many other programming languages and technologies. I am interested in designing and building scalable distributed systems, smart contracts and protocols on distributed networks like Ethereum, as well as native mobile and web clients.
 
 * 
-    - Full Stack Developer and Tech Lead experienced in system design, API design and data modeling
+    - Full Stack Engineer experienced in algorithm & system design, API design and data modeling
     - Interested in distributed and event-driven systems, product design, and agile methodologies
-    - Proficient in Java, JavaScript, and Solidity
-    - Some experience in Kotlin/Swift, Python and familiar with C, C++, C#, MATLAB, Ruby and many others
+    - Proficient in Java/Kotlin, JavaScript/TypeScript, and Solidity
+    - Some experience in Python, Rust, Golang, Swift and familiar with C, C++, C#, MATLAB, Ruby and many others
     - Experienced with Object-oriented design, Domain-driven design, Test-driven development, and Functional programming
     - Experienced with event-driven architecture (DDD, CQRS, Event Sourcing, Blockchain, RxJava, RxJS, Redux)
     - Well experienced in building web, native Android and hybrid mobile applications
@@ -35,7 +35,7 @@ Work Experience
     - Researching distributed protocol design and system architecture, token economics, mechanism design
     - Launched [WEINORTH](https://weinorth.com/), a tokenization platform built on Ethereum (ICO/KYC/Analytics).
     - Working on [Kittyland](https://kittyland.io/), an internal project, where we test and experiment with different concepts. It is a token publishing and distribution protocol for games and dApps built on top of ERC20, ERC721, and ERC998 token standards.
-    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Gatsby, ReactiveX (RxJS), Python
+    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Gatsby, ReactiveX (RxJS), Rust, Golang, Python
 
 *   **[Tolar HashNET](https://www.tolar.io/)** crypto-currency featuring scalable, fast, secure, and fair transactions
 
