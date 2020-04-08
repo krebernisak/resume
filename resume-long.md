@@ -13,15 +13,15 @@ I have been reading and writing code, running servers and experimenting with new
 * 
     - Full Stack Engineer experienced in algorithm & system design, API design and data modeling
     - Interested in distributed and event-driven systems, product design, and agile methodologies
-    - Proficient in Java/Kotlin, JavaScript/TypeScript, and Solidity
-    - Some experience in Python, Rust, Golang, Swift and familiar with C, C++, C#, MATLAB, Ruby and many others
+    - Proficient in Java/Kotlin, JavaScript/TypeScript, Python, and EVM/Solidity
+    - Some experience in C/C++, Rust, Golang, Swift and familiar with C#, MATLAB, Ruby and many others
     - Experienced with Object-oriented design, Domain-driven design, Test-driven development, and Functional programming
     - Experienced with event-driven architecture (DDD, CQRS, Event Sourcing, Blockchain, RxJava, RxJS, Redux)
     - Well experienced in building web, native Android and hybrid mobile applications
     - Web technologies (HTML5, CSS3, SVG, DOM, AJAX, REST, SOAP, WSDL, JSON, XML)
-    - Relational databases and object-relational mapping (SQL, Hibernate, JDO, JPA)
-    - Non-Relational databases (Blockchain, Firebase, ElasticSearch, Redis)
-    - General knowledge of cryptography and network security
+    - Relational databases and object-relational mapping (SQL, PostgreSQL, Hibernate, JDO, JPA)
+    - Non-Relational databases (Blockchain, Firebase, Redis, ElasticSearch) & ELT data pipelines
+    - Diverse knowledge of cryptography, network security and protocols
     - Tools: Git/GitFlow, Gradle, Maven, UNIX/Linux, Docker, CI/Jenkins/CircleCI, ELK Stack, Jupyter
 
 Work Experience
@@ -31,11 +31,11 @@ Work Experience
 
     Co-Founder and Technical Lead, Aug 2017 - Present
 
-    - Working with Solidity, EVM and Ethereum token standards on smart contract development
+    - Working with EVM/Solidity on Ethereum token standards and smart contract development
     - Researching distributed protocol design and system architecture, token economics, mechanism design
     - Launched [WEINORTH](https://weinorth.com/), a tokenization platform built on Ethereum (ICO/KYC/Analytics).
     - Working on [Kittyland](https://kittyland.io/), an internal project, where we test and experiment with different concepts. It is a token publishing and distribution protocol for games and dApps built on top of ERC20, ERC721, and ERC998 token standards.
-    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Gatsby, ReactiveX (RxJS), Rust, Golang, Python
+    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Gatsby, ReactiveX (RxJS), Python, Rust, Golang
 
 *   **[Tolar HashNET](https://www.tolar.io/)** crypto-currency featuring scalable, fast, secure, and fair transactions
 

@@ -10,12 +10,12 @@ Interests & Skills
 
 * 
     - Full Stack Engineer experienced in algorithm & system design, API design and data modeling
-    - Proficient in Java/Kotlin, JavaScript/TypeScript and Solidity, some experience in Python, Rust, Golang, Swift and familiar with C, C++, C#, MATLAB, Ruby and many others
-    - Experienced with event-driven architecture (DDD, CQRS, ES, Blockchain, RxJava, RxJS, Redux)
-    - Well experienced in building web, native Android and hybrid mobile applications
-    - Relational databases and object-relational mapping (SQL, Hibernate, JDO, JPA)
-    - Non-Relational databases (Blockchain, Firebase, Redis, ElasticSearch)
-    - General knowledge of cryptography and network security
+    - Proficient in Java/Kotlin, JavaScript/TypeScript, Python and EVM/Solidity, some experience in C/C++, Rust, Golang, Swift and familiar with many others
+    - Experienced with event-driven architecture (DDD, CQRS/ES, Blockchain, RxJava/RxJS, Redux)
+    - Well experienced in building services, web, native Android and hybrid mobile applications
+    - Relational databases and object-relational mapping (SQL, PostgreSQL, Hibernate, JDO, JPA)
+    - Non-Relational databases (Blockchain, Firebase, Redis, ElasticSearch) & ELT data pipelines
+    - Diverse knowledge of cryptography, network security and protocols
     - Tools: Git/GitFlow, Gradle, Maven, UNIX/Linux, Docker, CI/Jenkins/CircleCI, ELK Stack, Jupyter
 
 Work Experience
@@ -23,27 +23,27 @@ Work Experience
 
 *   **[RunningBeta](https://runningbeta.io/)** Co-Founder and Technical Lead, Aug 2017 - Present
 
-    - Working with Solidity, EVM and Ethereum token standards on smart contract development
+    - Working with EVM/Solidity on Ethereum token standards and smart contract development
     - Launched [WEINORTH](https://weinorth.com/), a tokenization platform built on Ethereum (ICO/KYC/Analytics).
-    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Gatsby, ReactiveX (RxJS), Rust, Golang, Python
+    - Technologies: Bitcoin, Ethereum, Solidity, JavaScript, TypeScript, Truffle, web3.js, IPFS, React, Redux, Gatsby, RxJS, Python, Rust, Golang
 
 *   **[Tolar HashNET](https://www.tolar.io/)** Smart Contract Engineer and Technical Advisor, Mar 2018 - Mar 2019
 
     - Worked on Tolar fundraising smart contract Ethereum infrastructure
-    - Technologies: Ethereum, Solidity, JavaScript, TypeScript, React, Redux, ReactiveX (RxJS)
+    - Technologies: Google Cloud, Ethereum, Solidity, JavaScript, TypeScript, React, Redux, RxJS
 
 *   **[Bellabeat](https://www.bellabeat.com/)** Mobile Team Lead and System Architect, Sep 2015 – Mar 2017
 
     - Led a team of 10 engineers (Android, iOS, QA) and worked on high-level system architecture
     - Implemented core Java shared (Android, Backend, iOS - J2Objc) library architecture
     - Led adoption of functional-reactive programming on multiple projects and platforms
-    - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, ReactiveX (RxJava, RxSwift), MVI Architecture, SQLite, Firebase, J2Objc, ElasticSearch
+    - Technologies: Java/Kotlin, Android SDK, Bluetooth LE, RxJava, MVI Architecture, SQLite, Firebase, J2Objc, ElasticSearch
 
 *   **[ShoutEm](https://www.shoutem.com/)** Android Developer, May 2013 - Sep 2015
 
     - Designed and developed a hybrid Android/iOS/HTML5 mobile app with thousands of users
     - Assisted in architecture planning and building of an in-house data collecting system
-    - Technologies: Java, Android SDK/NDK, ReactiveX (RxJava), Apache Cordova, HTML5/CSS/SVG, JavaScript, Node.js, ElasticSearch, Ruby, Python
+    - Technologies: Java, Android SDK/NDK, RxJava, Apache Cordova, HTML5/CSS/SVG, JavaScript, Node.js, ElasticSearch, Ruby, Python
 
 *   **[FIVE](https://five.agency/)** Android Developer, November 2012 – May 2013
 
